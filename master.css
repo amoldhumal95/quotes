@@ -1,1 +1,6 @@
-body{background: url('/img/2.png');}#btn{margin: 5px auto;height: 50px;width: 250px;font-size: 22px;background-color: transparent;border: 1px solid white;border-radius: 10px;color:crimson;font-weight: 700;}#btn:hover{background-color: crimson;color: white;}#output{margin: 25px auto;font-size: 32px;color: white;font-weight: 600;font-style: italic;}#box{margin-top: 100px;}#container{position: relative;text-align: center;width:150px auto;padding:50px;background: rgba(255,255,255,0.2);box-shadow: 0 5px 15px rgba(0,0,0,.5);}
+body{background: url('/img/2.png');}
+#btn{margin: 5px auto;height: 50px;width: 250px;font-size: 22px;background-color: transparent;border: 1px solid white;border-radius: 10px;color:crimson;font-weight: 700;}
+#btn:hover{background-color: crimson;color: white;}
+#output{margin: 25px auto;font-size: 32px;color: white;font-weight: 600;font-style: italic;}
+#box{margin-top: 100px;}
+#container{position: relative;text-align: center;width:150px auto;padding:50px;background: rgba(255,255,255,0.2);box-shadow: 0 5px 15px rgba(0,0,0,.5);}
